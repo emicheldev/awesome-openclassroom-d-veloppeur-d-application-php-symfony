@@ -163,7 +163,7 @@ Voici le lien pour créer un [thème enfant](https://wpformation.com/theme-enfan
 - [Code Climate](https://codeclimate.com/)
 - [PHP Parser](https://github.com/nikic/PHP-Parser)
 - [Scrutinizer](https://scrutinizer-ci.com/)
-- [codeclimate](https://codeclimate.com/)
+- [codaci](https://app.codacy.com/)
 
 ###  Qualité du code
 
